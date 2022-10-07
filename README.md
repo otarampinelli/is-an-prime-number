@@ -20,8 +20,6 @@ You can pass an integer number as parameter to return the result in boolean.
 ```js
 const isPrimeNumber = require('is-an-prime-number');
 
-// Whitout any return type parameter
-
 console.log(isPrimeNumber(2)); //=> true
 console.log(isPrimeNumber(4)); //=> false
 
